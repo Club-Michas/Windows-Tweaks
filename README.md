@@ -4,7 +4,7 @@ A growing collection of practical Windows tweaks and registry hacks designed to 
 
 Currently available:
 
-🕒 Enable seconds in the taskbar clock — because precision matters.
+🕒 Enable seconds in the taskbar clock, because precision matters.
 
 Coming soon:
 
